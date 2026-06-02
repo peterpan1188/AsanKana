@@ -1,0 +1,6 @@
+{
+  "name": "AsanKana",
+  "description": "Modern marketing landing page for AsanKana, the high-end emergency response and family locator application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
